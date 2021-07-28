@@ -1,5 +1,6 @@
 .cover__background {
-  width: 1184px;
+  width: 100%;
+  min-height: 740px;
   background: center center no-repeat url(../../../images/cover-trains.jpg);
   background-size: cover;
   display: flex;
@@ -7,4 +8,12 @@
   align-items: center;
   justify-content: center;
   text-decoration: none;
+
+}
+
+@media screen and (max-width: 1024px) {
+  .header {
+    max-width: 1024px;
+    min-height: 640px;
+  } 
 }
