@@ -7,3 +7,10 @@
   line-height: 1.1;
   font-weight: 400;
 }
+
+@media screen and (max-width: 320px) {
+  .header__lang-list {
+    font-size: 18px;
+    line-height: 20px;
+  } 
+}
