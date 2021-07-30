@@ -33,8 +33,8 @@
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/page/__item/page__item.css);
-@import url(../blocks/intro/__content/intro__content.css);
 @import url(../blocks/cover/__background/cover__background.css);
 @import url(../blocks/cover/__link/cover__link.css);
-@import url(../blocks/header/__link/_lang/header__link_lang.css);
+@import url(../blocks/header/__link/_lang/header__link_lang_ru.css);
+@import url(../blocks/header/__link/_lang/header__link_lang_en.css);
 @import url(../blocks/header/__logo-image/header__logo-image.css);
