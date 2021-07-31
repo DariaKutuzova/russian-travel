@@ -1,21 +1,3 @@
 .page__item {
   margin: 0 auto;
 }
-
-@media screen and (max-width: 1024px) {
-  .page__item {
-    max-width: 1024px;
-  } 
-}
-
-@media screen and (max-width: 768px) {
-  .page__item {
-    max-width: 768px;
-  } 
-}
-
-@media screen and (max-width: 320px) {
-  .page__item {
-    max-width: 320px;
-  } 
-}
