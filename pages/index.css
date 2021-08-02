@@ -8,7 +8,7 @@
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__title/lead__title.css);
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
-@import url(../blocks/lead/__image/lead__polka.css);
+@import url(../blocks/lead/__polka/lead__polka.css);
 @import url(../blocks/lead/__caption/lead__caption.css);
 @import url(../blocks/intro/intro.css);
 @import url(../blocks/intro/__title/intro__title.css);
@@ -39,3 +39,4 @@
 @import url(../blocks/header/__logo-image/header__logo-image.css);
 @import url(../blocks/intro/__list-line/intro__list-line.css);
 @import url(../blocks/footer/__links-item/footer__links-item.css);
+@import url(../blocks/lead/__image/lead__image.css);
